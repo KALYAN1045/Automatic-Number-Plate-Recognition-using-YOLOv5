@@ -11,18 +11,7 @@ The goal of this project was to create a model that can accurately detect number
 Object Detection is carried out in this project to detect Number Plates on vehicles. YOLOv5s model was used along with transfer learning for training and testing. Model accurately generates bounding boxes around Number Plates
 
 More Info on YOLOv5: https://github.com/ultralytics/yolov5
-## 📃 Table of Content
 
-- [Automatic Number Plate Detection](#automatic-number-plate-detection)
-
-  * [Model Information](#model-information)
-  * [Dataset](#dataset)
-  * [Installation](#installation)
-  * [Implementation](#Implementation)
-  * [Result](#result)
-  * [Summary](#Summary)
-  * [Limitations](#limitations)
-  * [Future works](#Future-works)
 ## 📚 Dataset
 
 The dataset I used for training for Number plate detection:  
