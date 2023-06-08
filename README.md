@@ -24,7 +24,7 @@ install requirements.txt in a Python>=3.7.0 environment.
 
     git clone https://github.com/KALYAN1045/Automatic-Number-Plate-Recognition-using-YOLOv5.git  # clone
     
-    cd Automatic-number-plate-recognition-YOLO-OCR
+    cd Automatic-Number-Plate-Recognition-using-YOLOv5
     
     pip install -r requirements.txt  # install
 ## 🔐 Implementation
